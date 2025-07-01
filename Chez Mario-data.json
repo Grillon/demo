@@ -1,0 +1,51 @@
+{
+  "nom": "Chez Mario",
+  "accroche": "Une cuisine napolitaine de renom",
+  "banniere_url": "https://imgs.search.brave.com/BQtHmhtxfitfZHCa95dV4oqYnXgRVAa2HVSbnB11vdc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hZG1p/bi5wZXBlc3Bpenpl/cmlhLmNvbS9tZWRp/YS8yNTQ5",
+  "images": [
+    "https://media.gettyimages.com/id/1414575281/fr/photo/une-d%C3%A9licieuse-et-savoureuse-pizza-italienne-margherita-aux-tomates-et-mozzarella-de-buffle.jpg?s=612x612&w=0&k=20&c=2hIPM6DtgGxwdBE2PriE7m02AXoOqKHy6K35U8r6TEw=",
+    "https://imgs.search.brave.com/6E9t7_IQpoOEXs8aNe2zNU87GJq2A8qH65XYwqtoMac/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q3L1BpenphX2Jh/a2luZ19pbl9Xb29k/LWZpcmVkX292ZW4u/anBn",
+    "https://media.gettyimages.com/id/1463862256/fr/photo/pizza-chef-with-freshly-baked-pizza.jpg?s=612x612&w=0&k=20&c=wEnglWJyhy6sY_Dt83oDux6W0neWNKlMGvSefNP2OME="
+  ],
+  "adresse": "3 Boulevard de la Liberté 34500 Béziers",
+  "maps_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2901.658901810346!2d3.2190872767106553!3d43.34232627111863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b10e609e924175%3A0x1f05e1e35de5ea27!2s3%20Bd%20de%20la%20Libert%C3%A9%2C%2034500%20B%C3%A9ziers!5e0!3m2!1sfr!2sfr!4v1751286828747!5m2!1sfr!2sfr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"",
+  "telephone": "0708091011",
+  "horaires": "Lundi au vendredi de 18h à 23h30\nFermé le week-end",
+  "socials": [
+    {
+      "nom": "X (Twitter)",
+      "url": "https://x.com/grillon_"
+    },
+    {
+      "nom": "Instagram",
+      "url": "https://instagram.com/chez-mario"
+    },
+    {
+      "nom": "LinkedIn",
+      "url": "https://linkedin.com/company/mario"
+    }
+  ],
+  "template": "simple",
+  "darkMode": false,
+  "customization": "rose",
+  "aiCustomizationEnabled": false,
+  "customizationOptions": {
+    "color": "",
+    "typography": "",
+    "animation": "",
+    "ambiance": "",
+    "darkMode": false
+  },
+  "menuCards": [
+    {
+      "type": "image",
+      "url": "https://cdn.venngage.com/template/thumbnail/small/4959bf48-9db8-4526-8792-f35bd10c67dc.webp",
+      "title": "Nos Pizzas"
+    },
+    {
+      "type": "image",
+      "url": "https://cdn.venngage.com/template/thumbnail/small/4959bf48-9db8-4526-8792-f35bd10c67dc.webp",
+      "title": "Nos boissons"
+    }
+  ]
+}
